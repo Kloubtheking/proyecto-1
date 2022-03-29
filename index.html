@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pagina de ventas</title>
+    <link rel="stylesheet" href="css/normalice.css">
+    <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="todo">
+        <header class="header">
+            <a class="logo" href="index.html">
+                <img class="header__logo" src="./img/PngItem_3383171.png" alt="logotipo">
+            </a>
+        </header>
+    
+
+        <nav class="navegacion">
+            <a class="navegacion__enlace navegacion__enlace--activo" href="index.html">tienda</a>
+            <a class="navegacion__enlace" href="nosotros.html">nosotros</a>
+        </nav>
+
+        <h1 class="h1__diseño">nuestro productos</h1>
+<main class="contenedor">            
+
+
+       <div class="grid">
+           <div class="producto">
+               <a href="producto.html">
+                   <img class="producto__imagen" src="img/1.jpg" alt="imagen camisa">
+                   <div class="producto__informacion">
+                        <p class="producto__nombre">Vjues</p>
+                        <p class="producto__precio">25$</p>                       
+                   </div>
+               </a>
+            </div> <!-- .producto -->
+            <div class="producto">
+                <a href="producto.html">
+                    <img class="producto__imagen" src="img/2.jpg" alt="imagen camisa">
+                    <div class="producto__informacion">
+                         <p class="producto__nombre">Vjues</p>
+                         <p class="producto__precio">25$</p>                       
+                    </div>
+                </a>
+             </div> <!-- .producto -->
+             <div class="producto">
+                <a href="producto.html">
+                    <img class="producto__imagen" src="img/3.jpg" alt="imagen camisa">
+                    <div class="producto__informacion">
+                         <p class="producto__nombre">Vjues</p>
+                         <p class="producto__precio">25$</p>                       
+                    </div>
+                </a>
+             </div> <!-- .producto -->
+             <div class="producto">
+                <a href="producto.html">
+                    <img class="producto__imagen" src="img/4.jpg" alt="imagen camisa">
+                    <div class="producto__informacion">
+                         <p class="producto__nombre">Vjues</p>
+                         <p class="producto__precio">25$</p>                       
+                    </div>
+                </a>
+             </div> <!-- .producto -->
+             <div class="producto">
+                <a href="producto.html">
+                    <img class="producto__imagen" src="img/5.jpg" alt="imagen camisa">
+                    <div class="producto__informacion">
+                         <p class="producto__nombre">Vjues</p>
+                         <p class="producto__precio">25$</p>                       
+                    </div>
+                </a>
+             </div> <!-- .producto -->
+             <div class="producto">
+                <a href="producto.html">
+                    <img class="producto__imagen" src="img/6.jpg" alt="imagen camisa">
+                    <div class="producto__informacion">
+                         <p class="producto__nombre">Vjues</p>
+                         <p class="producto__precio">25$</p>                       
+                    </div>
+                </a>
+             </div> <!-- .producto -->
+             <div class="producto">
+                <a href="producto.html">
+                    <img class="producto__imagen" src="img/7.jpg" alt="imagen camisa">
+                    <div class="producto__informacion">
+                         <p class="producto__nombre">Vjues</p>
+                         <p class="producto__precio">25$</p>                       
+                    </div>
+                </a>
+             </div> <!-- .producto -->
+             <div class="producto">
+                <a href="producto.html">
+                    <img class="producto__imagen" src="img/8.jpg" alt="imagen camisa">
+                    <div class="producto__informacion">
+                         <p class="producto__nombre">Vjues</p>
+                         <p class="producto__precio">25$</p>                       
+                    </div>
+                </a>
+             </div> <!-- .producto -->
+             <div class="producto">
+                <a href="producto.html">
+                    <img class="producto__imagen" src="img/9.jpg" alt="imagen camisa">
+                    <div class="producto__informacion">
+                         <p class="producto__nombre">Vjues</p>
+                         <p class="producto__precio">25$</p>                       
+                    </div>
+                </a>
+             </div> <!-- .producto -->
+             <div class="producto">
+                <a href="producto.html">
+                    <img class="producto__imagen" src="img/10.jpg" alt="imagen camisa">
+                    <div class="producto__informacion">
+                         <p class="producto__nombre">Vjues</p>
+                         <p class="producto__precio">25$</p>                       
+                    </div>
+                </a>
+             </div> <!-- .producto -->
+             <div class="producto">
+                <a href="producto.html">
+                    <img class="producto__imagen" src="img/11.jpg" alt="imagen camisa">
+                    <div class="producto__informacion">
+                         <p class="producto__nombre">Vjues</p>
+                         <p class="producto__precio">25$</p>                       
+                    </div>
+                </a>
+             </div> <!-- .producto -->
+             <div class="producto">
+                <a href="producto.html">
+                    <img class="producto__imagen" src="img/12.jpg" alt="imagen camisa">
+                    <div class="producto__informacion">
+                         <p class="producto__nombre">Vjues</p>
+                         <p class="producto__precio">25$</p>                       
+                    </div>
+                </a>
+             </div> <!-- .producto -->
+             <div class="producto">
+                <a href="producto.html">
+                    <img class="producto__imagen" src="img/13.jpg" alt="imagen camisa">
+                    <div class="producto__informacion">
+                         <p class="producto__nombre">Vjues</p>
+                         <p class="producto__precio">25$</p>                       
+                    </div>
+                </a>
+             </div> <!-- .producto -->
+             <div class="producto">
+                <a href="producto.html">
+                    <img class="producto__imagen" src="img/14.jpg" alt="imagen camisa">
+                    <div class="producto__informacion">
+                         <p class="producto__nombre">Vjues</p>
+                         <p class="producto__precio">25$</p>                       
+                    </div>
+                </a>
+             </div> <!-- .producto -->
+       </div> 
+
+        <footer class="footer">
+            <p class="footer__texto">frond end store todos los derechos reservados 2022</p>
+        </footer>
+    </div>
+    
+
+
+    <video class="video" loop muted autoplay>
+        <source src="fondodepantalla/Anime.mp4" type="video/mp4">
+    </video>
+
+
+    <div class="capa"></div>
+
+    
+
+</body>
+</html>
